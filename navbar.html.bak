@@ -1,0 +1,28 @@
+
+ <ul class="nav" id="side-menu">
+ <li>
+ <a href="index.jsp" class="waves-effect"><i class="mdi mdi-av-timer fa-fw>
+<span class="hide-menu">
+ </i>Dashboard</span></a>
+ </li>  <ul class="nav nav-second-level">
+                              
+                        
+                        </ul>
+                <!---- <li> <a href="#" class="waves-effect"><i class="mdi mdi-clipboard-text fa-fw"></i> <span class="hide-menu">Patients<span class="fa arrow"></span> <span class="label label-rouded label-info pull-right"></span> </span></a>-->
+                        <ul class="nav nav-second-level">
+                            <li><a href="PatientForm.jsp"><i class="fa fa-wheelchair" aria-hidden="true"></i> <span class="hide-menu">Patient Application</span></a></li>	
+                            <li><a href="patientdata.jsp"><i data-icon="&#xe026;" class="linea-icon linea-basic fa-fw"></i> <span class="hide-menu">Patient Records</span></a></li>
+						
+						
+							
+                        </ul>
+                    </li>                 
+                 <!-----       <li> <a href="#" class="waves-effect"><i data-icon="&#xe026;" class="fa fa-user-md"></i> <span class="hide-menu">Doctor<span class="fa arrow"></span> <span class="label label-rouded label-info pull-right"></span> </a>----->
+                        <ul class="nav nav-second-level">
+                            <li><a href="PrescriptionForm.jsp"><i class="glyphicon glyphicon-pencil"></i> <span class="hide-menu">Prescription Apply</span></a></li>						
+                           <li><a href="prescriptiondata.jsp"><i class="fa fa-database"></i> <span class="hide-menu">Prescription Records</span></a></li>
+						   <li><a href="PresmediForm.jsp"><i data-icon="&#xe026;" class="fa fa-medkit"></i> <span class="hide-menu">Medicine</span></a></li>
+						   <li><a href="#"><i data-icon="&#xe026;" class="fa fa-medkit"></i> <span class="hide-menu">Payments</span></a></li>
+                        </ul>
+                      </li>                     
+                       </ul>
